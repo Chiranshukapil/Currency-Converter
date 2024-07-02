@@ -1,0 +1,94 @@
+/* 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+} */
+/* .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: lightcoral;
+} */
+
+
+/* Ensure the body and html take up the full height */
+html, {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-family: Arial, sans-serif; */
+}
+
+/* Center the container div */
+.container {
+    /* text-align: center; */
+    /* border: 1px solid #ccc;
+    padding: 20px; */
+    /* border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+}
+
+/* Style the heading */
+/* h2 {
+    margin-bottom: 20px;
+} */
+
+/* Style the form elements */
+/* form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.amount, .dropdown {
+    margin-bottom: 20px;
+}
+
+.amount p, .from p, .to p {
+    margin: 0 0 5px 0;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.from, .to {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.select-container {
+    display: flex;
+    align-items: center;
+}
+
+select {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+} */
